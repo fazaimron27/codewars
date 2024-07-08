@@ -1,0 +1,16 @@
+{
+  "name": "codewars",
+  "module": "train.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha ./train.test.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "chai": "^5.1.1",
+    "mocha": "^10.6.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

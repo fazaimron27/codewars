@@ -1,0 +1,32 @@
+[submodule "codewars-8-kyu"]
+	path = codewars-8-kyu
+	url = https://github.com/fazaimron27/codewars.git
+	branch = 8-kyu
+[submodule "codewars-7-kyu"]
+	path = codewars-7-kyu
+	url = https://github.com/fazaimron27/codewars.git
+	branch = 7-kyu
+[submodule "codewars-6-kyu"]
+	path = codewars-6-kyu
+	url = https://github.com/fazaimron27/codewars.git
+	branch = 6-kyu
+[submodule "codewars-5-kyu"]
+	path = codewars-5-kyu
+	url = https://github.com/fazaimron27/codewars.git
+	branch = 5-kyu
+[submodule "codewars-4-kyu"]
+	path = codewars-4-kyu
+	url = https://github.com/fazaimron27/codewars.git
+	branch = 4-kyu
+[submodule "codewars-3-kyu"]
+	path = codewars-3-kyu
+	url = https://github.com/fazaimron27/codewars.git
+	branch = 3-kyu
+[submodule "codewars-2-kyu"]
+	path = codewars-2-kyu
+	url = https://github.com/fazaimron27/codewars.git
+	branch = 2-kyu
+[submodule "codewars-1-kyu"]
+	path = codewars-1-kyu
+	url = https://github.com/fazaimron27/codewars.git
+	branch = 1-kyu
